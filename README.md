@@ -3,7 +3,7 @@
 ##  #Source Code
 
 *Dear all,*
-I am Hanh Tran from FPT University.
+We are Phan Duy Hung and Hanh Tran from FPT University.
 
 *Thanks for enjoining this meterial*.
 This github is the source code of the article Term Deposit Subscription Prediction Using Spark MLlib and ML packages and we hope that you are can fully understand all of this code.
@@ -11,7 +11,8 @@ This github is the source code of the article Term Deposit Subscription Predicti
 Below is several steps that you are have to follow for running it.
 
 *Thanks and best regards,*
-Hanh Tran
+**Phan Duy Hung**
+**Hanh Tran**
 ------------------------------------
 > **Apache Spark** is Required
 
